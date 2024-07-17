@@ -1,5 +1,5 @@
 # AMDVanillaChecker
 Python script to check if Replace values of AMD Vanilla patches are correct (useless, right ?)
 # Prerequisites
-``psutil``
+``psutil`` </br>
 Everything required will be installed by running Run.bat
